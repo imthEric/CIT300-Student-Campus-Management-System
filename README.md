@@ -205,10 +205,10 @@ at least one part of the system.
 
 | No. | Name | Student ID | Responsibility | Individual Contribution |
 |-----|------|------------|----------------|------------------------|
-| 1 | [Name] | [ID] | [Responsibility] | [Contribution] |
-| 2 | [Name] | [ID] | [Responsibility] | [Contribution] |
-| 3 | [Name] | [ID] | [Responsibility] | [Contribution] |
-| 4 | [Name] | [ID] | [Responsibility] | [Contribution] |
+| 1 | N M IMTHATH | 23da2-0578 | Linked List + Student CRUD | Implemented student linked list; added update and delete operations |
+| 2 | A M D R ADHIKARI | 23da2-0965 | Stack + Queue | Implemented action stack; added service request queue |
+| 3 | M S M SABREEN | 23da2-0733 | BST + Hashing | Implemented student BST; added student hash search |
+| 4 | M L F LAFRA | 23da2-1118 | Graph + BFS/DFS | Implemented campus graph; added BFS traversal |
 
 *(Placeholders — replace with real group information before submission.)*
 
